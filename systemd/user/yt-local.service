@@ -1,0 +1,15 @@
+[Unit]
+Description=Minimal frontend for YouTube
+Documentation=https://git.sr.ht/~heckyel/yt-local
+After=network.target
+
+[Service]
+ExecStart=/home/sirred/.local/src/yt-local/evn/bin/python /home/sirred/.local/src/yt-local/server.py
+User=sirred
+#Group=sirred
+#Restart=on-failure
+WorkingDirectory=/home/sirred/.local/src/yt-local
+Environment=PYTHONUNBUFFERED=1
+
+[Install]
+WantedBy=default.target

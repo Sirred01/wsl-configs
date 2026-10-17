@@ -1,0 +1,173 @@
+[?1049h[22;0;0t[?1h=[H[2J[?2004h[?69$p[?2026$p[?2027$p[?2031$p[?2048$p[0m[4:3mP$qm\[?u[c[?25h[?25l(B[m[H                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                [?1004h[?25h[?25l(B[m[24;1H[J[96mcheckhealth(B[m: [93m  7% (B[mchecking lspconfig[H[K
+~[K
+~[K
+~[K
+~[K
+~[K
+~[K
+~[K
+~[K
+~[K
+~[K
+~[K
+~[K
+~[K
+~[K
+~[K
+~[K
+~[K
+~[K
+~[K
+~[K
+~[K
+(B[0;7mhealth://                                                     0,0-1          All[1 q[?1002h[?1006h(B[m[H[K
+~[K
+~[K
+~[K
+~[K
+~[K
+~[K
+~[K
+~[K
+~[K
+~[K
+~[K
+~[K
+~[K
+~[K
+~[K
+~[K
+~[K
+~[K
+~[K
+~[K
+~[K
+(B[0;7mhealth://                                                     0,0-1          All
+(B[m[96mcheckhealth(B[m: [93m  7% (B[mchecking lspconfig[K[?25h[?25l[24;1H[J[93m:checkhealth lspconfig is deprecated, use :checkhealth vim.lsp instead.[22A(B[m==============================================================================[K
+lspconfig:                                                                    ✅[3;79H[K
+[K
+- `:checkhealth lspconfig` was removed. Use `:checkhealth vim.lsp` instead.[K
+[K[23;63H(B[0;7m1(B[m
+[J[36C[?25h[?25l[24;1H[96mcheckhealth(B[m:[C[93m 21% (B[mchecking mason[17A==============================================================================[K
+luasnip:                                                                  1   ⚠️[8;79H[K
+[K
+luasnip ~[K
+-   ⚠️[11;5H WARNING For Variable/Placeholder-transformations, luasnip requires[K
+      the jsregexp library. See `:help |luasnip-lsp-snippets-transformations`| for advice[K
+  [K
+[K[24;33H[?25h[?25l[24;1H[32X[96mcheckhealth(B[m:[C[93m 28% (B[mchecking mason-lspconfig[8A==============================================================================[K
+mason:                                                                   10   ⚠️[17;79H[K
+[K
+mason.nvim ~[K
+-   ✅[20;5H OK mason.nvim version v2.2.1[K
+-   ✅[21;5H OK PATH: prepend[K
+-   ✅[22;5H OK Providers: [K[24;43H[?25h[?25l[24;1H[42X[96mcheckhealth(B[m:[C[93m 35% (B[mchecking null-ls[?25h[?25l[24;1H[34X[93mvim.tbl_flatten is deprecated. Run ":checkhealth vim.deprecated" for(B[m[24;1H[J[34C[?25h[?25l[?1049h[22;0;0t[?1h=[H[2J[?2004h[?69$p[?2026$p[?2027$p[?2031$p[?2048$p[0m[4:3mP$qm\[?u[c[?25h[?25l(B[m[H                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                [?1004h[?25h[?25l(B[m[24;1H[J[96mcheckhealth(B[m: [93m  7% (B[mchecking lspconfig[H[K
+~[K
+~[K
+~[K
+~[K
+~[K
+~[K
+~[K
+~[K
+~[K
+~[K
+~[K
+~[K
+~[K
+~[K
+~[K
+~[K
+~[K
+~[K
+~[K
+~[K
+~[K
+(B[0;7mhealth://                                                     0,0-1          All[1 q[?1002h[?1006h(B[m[H[K
+~[K
+~[K
+~[K
+~[K
+~[K
+~[K
+~[K
+~[K
+~[K
+~[K
+~[K
+~[K
+~[K
+~[K
+~[K
+~[K
+~[K
+~[K
+~[K
+~[K
+~[K
+(B[0;7mhealth://                                                     0,0-1          All
+(B[m[96mcheckhealth(B[m: [93m  7% (B[mchecking lspconfig[K[?25h[?25l[24;1H[J[93m:checkhealth lspconfig is deprecated, use :checkhealth vim.lsp instead.[22A(B[m==============================================================================[K
+lspconfig:                                                                    ✅[3;79H[K
+[K
+- `:checkhealth lspconfig` was removed. Use `:checkhealth vim.lsp` instead.[K
+[K[23;63H(B[0;7m1(B[m
+[J[36C[?25h[?25l[24;1H[96mcheckhealth(B[m:[C[93m 21% (B[mchecking mason[17A==============================================================================[K
+luasnip:                                                                  1   ⚠️[8;79H[K
+[K
+luasnip ~[K
+-   ⚠️[11;5H WARNING For Variable/Placeholder-transformations, luasnip requires[K
+      the jsregexp library. See `:help |luasnip-lsp-snippets-transformations`| for advice[K
+  [K
+[K[24;33H[?25h[?25l[24;1H[32X[96mcheckhealth(B[m:[C[93m 28% (B[mchecking mason-lspconfig[8A==============================================================================[K
+mason:                                                                   10   ⚠️[17;79H[K
+[K
+mason.nvim ~[K
+-   ✅[20;5H OK mason.nvim version v2.2.1[K
+-   ✅[21;5H OK PATH: prepend[K
+-   ✅[22;5H OK Providers: [K[24;43H[?25h[?25l[24;1H[42X[96mcheckhealth(B[m:[C[93m 35% (B[mchecking null-ls[?25h[?25l[24;1H[34X[93mvim.tbl_flatten is deprecated. Run ":checkhealth vim.deprecated" for(B[m[24;1H[J[34C[?25h[?25l

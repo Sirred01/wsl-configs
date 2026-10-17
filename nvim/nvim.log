@@ -1,0 +1,2 @@
+WRN 2026-10-18T03:05:58.276 ?.2        server_start:197: Failed to start server: operation not permitted: /mnt/wslg/runtime-dir/nvim.2.0
+WRN 2026-10-18T03:06:04.732 ?.3        server_start:197: Failed to start server: operation not permitted: /mnt/wslg/runtime-dir/nvim.3.0

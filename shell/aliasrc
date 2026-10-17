@@ -1,0 +1,14 @@
+alias ls="ls --color=auto"
+export LS_COLORS="\
+di=35:\
+ln=36:\
+so=35:\
+pi=35:\
+ex=34:\
+bd=34:\
+cd=34:\
+su=35:\
+sg=35:\
+tw=35:\
+ow=35"
+alias vim="nvim"
